@@ -1,0 +1,85 @@
+
+body{
+    background-color: gainsboro;
+}
+
+h1,.re{
+    text-align: center;  
+  }
+  
+  .hed{  
+  
+      background-color: black;
+      
+      
+  }
+  a{
+     
+      text-decoration: none;
+      color: aliceblue;
+     height: 30px;
+  margin: 9px;
+  }
+  .lin{
+      display: flex;
+  justify-content: flex-end;
+  margin-top: -20px;
+     
+ 
+  }
+
+  .tit{
+background-color: gray;
+
+padding: 30px;
+
+  }
+  .ti{
+font-size: larger;
+
+  }
+
+  .im2{
+
+    font-size:larger ;
+    
+  }
+
+  .imag2{
+
+    background-color: grey;
+
+    padding: 30px;
+
+    clear: both;
+  }
+
+  .fo{
+      
+
+   text-align: center;
+
+   background-color: grey;
+   padding: 20px;
+   
+   
+   
+  }
+
+
+  .abou{
+
+    display: flex;
+    align-content:flex-end;
+    height: ;
+    width: 35%;
+     float: left;
+    
+    background-color: grey;
+    margin-left: 78%;
+    
+
+    
+
+
+  }
